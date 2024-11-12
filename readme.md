@@ -15,7 +15,7 @@ At the time of writing, my active interests and projects focus on plankton image
   **Pledge**: I will provide any code used to make figures, a requirements.txt, dockerfile or renv.loc where applicable to my work
 
 - ![App publication process](https://img.shields.io/badge/Application_publication_process-03A9F4?style=flat&logo=github)
-  **Pledge**: I will follow our application publication process (https://cefas.sharepoint.com/sites/News/SitePages/Make-your-science-data-work-harder.aspx?web=1)
+**Pledge**: I will follow our [application publication process](https://cefas.sharepoint.com/sites/News/SitePages/Make-your-science-data-work-harder.aspx?web=1).
 
 
 ![Create Badges](https://img.shields.io/badge/Create_Badges_at-shields.io-03A9F4?style=flat&logo=github)

@@ -17,7 +17,7 @@ At the time of writing, my active interests and projects focus on plankton image
 ## **Software-specific Pledges**
 
 ![Excel is bad](https://img.shields.io/badge/Excel_is_bad.-8A2BE2?style=flat&logo=gitlfs) 
-  I will not using Excel for data entry unless I am told to. Instead, I will use structured formats like CSV or JSON that force some data integrity.
+  I will not use Excel for data entry unless I am told to. Instead, I will use structured formats like CSV or JSON that force some data integrity.
 
 
 ---

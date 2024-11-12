@@ -11,12 +11,11 @@ At the time of writing, my active interests and projects focus on plankton image
 - ![I use github](https://img.shields.io/badge/I_use_github-FDAE00?style=flat&logo=github)
   **Pledge**: I will evidence my work in github
 
-- ![I use github](https://img.shields.io/badge/I_use_github-FDAE00?style=flat&logo=github)
-  **Pledge**: I will evidence my work in github
-
 - ![Reproducibility](https://img.shields.io/badge/Reproducibility-03A9F4?style=flat&logo=github)
   **Pledge**: I will provide any code used to make figures, a requirements.txt, dockerfile or renv.loc where applicable to my work
 
+- ![App publication process](https://img.shields.io/badge/Application_publication_process-03A9F4?style=flat&logo=github)
+  **Pledge**: I will follow our application publication process (https://cefas.sharepoint.com/sites/News/SitePages/Make-your-science-data-work-harder.aspx?web=1)
 
-https://img.shields.io/badge/To_make_one_of_these_visit_https://shields.io/badges-03A9F4?style=flat&logo=github
 
+![Create Badges](https://img.shields.io/badge/Create_Badges_at-shields.io-03A9F4?style=flat&logo=github)

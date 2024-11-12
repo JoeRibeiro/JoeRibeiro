@@ -40,8 +40,7 @@ I will always retain the time zone and GPS convention used as a data stamp. If m
 ---
 
 
-
-![Create Badges](https://img.shields.io/badge/Ask_me_for_info_or_see-shields.io-03A9F4?style=flat&logo=github)
+[![Create Badges](https://img.shields.io/badge/Ask_me_for_info_or_see-shields.io-03A9F4?style=flat&logo=github)](https://shields.io)
 
 
 

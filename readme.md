@@ -1,6 +1,8 @@
 Hello! I am an oceanographer by training and a data scientist (AI specialist) by practice.
 At the time of writing, my active interests and projects focus on plankton imagery, flow cytometry and the development of models suitable for these instruments.
 
+
+---
 # My Data Cult-ure Pledges
 
 ## **Reproducibility Pledges**
@@ -9,10 +11,9 @@ At the time of writing, my active interests and projects focus on plankton image
   I will evidence my work in github
 
 ![Reproducibility](https://img.shields.io/badge/Reproducibility-03A9F4?style=flat&logo=github) 
-  I will provide any code used to make figures, a requirements.txt, dockerfile or renv.loc where applicable to my work
+  In my github I will provide any code used to make figures, a requirements.txt, dockerfile or renv.loc where applicable to my work
 
 
----
 
 ## **Software-specific Pledges**
 
@@ -20,7 +21,6 @@ At the time of writing, my active interests and projects focus on plankton image
   I will not use Excel for data entry unless I am told to. Instead, I will use structured formats like CSV or JSON that force some data integrity.
 
 
----
 
 
 ## **Software-Agnostic Pledges**
@@ -30,9 +30,6 @@ At the time of writing, my active interests and projects focus on plankton image
 
 ![App publication process](https://img.shields.io/badge/Application_publication_process-03A9F4?style=flat&logo=github) 
 I will follow our [application publication process](https://cefas.sharepoint.com/sites/News/SitePages/Make-your-science-data-work-harder.aspx?web=1).
-
-![No Special Characters in Headers](https://img.shields.io/badge/No_Special_Characters_in_Headers-FFEB3B)  
-   I will avoid using special characters in header names to maintain compatibility across systems.
 
 ![Don't mix](https://img.shields.io/badge/No_Mixing_of_Coordinates-8BC34A)  
    I will not mix coordinate systems, such as degrees, minutes, and seconds with decimal degrees. I will not mix data formats (e.g., dates with numbers) within a single column or dataset.

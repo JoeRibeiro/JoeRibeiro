@@ -23,7 +23,7 @@ At the time of writing, my active interests and projects focus on plankton image
 
 
 
-## **Software-Agnostic Pledges**
+## **Software-agnostic Pledges**
 
 ![A table is 2D](https://img.shields.io/badge/A_table_is_2D-FDAE00?style=flat&logo=gitlfs) 
   I will not fudge a third dimension into something 2-dimensional
